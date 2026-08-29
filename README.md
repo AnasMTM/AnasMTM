@@ -1,120 +1,127 @@
-<!-- HERO SECTION -->
-<div align="center">
-  <h1>Hi, I'm Anas 👋</h1>
-  <h3><b>Engineering Technology Undergraduate</b></h3>
-  <p>
-    <b>Industrial Automation • Robotics • Robotics SE • Embedded Systems • IoT • Linux • Cloud Computing</b>
-  </p>
-  <p>
-    <i>« Building intelligent systems that bridge hardware and software to solve real-world engineering challenges. »</i>
-  </p>
+<h1 align="center">Hi there, I'm Anas 👋</h1>
 
-  <p align="center">
-    <a href="#-featured-projects"><img src="https://img.shields.io/badge/🚀_View_Projects-28A745?style=for-the-badge&logoColor=white" alt="Projects" /></a>
-    <a href="#-contact"><img src="https://img.shields.io/badge/📫_Contact_Me-FF5722?style=for-the-badge&logoColor=white" alt="Contact" /></a>
-  </p>
-</div>
+<h3 align="center">🤖 Automation & Robotics Undergraduate | Building Intelligent Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Robotics+%26+Robotics+Software+Engineering;Industrial+Automation+%26+Control+Systems;Embedded+Systems+%26+IoT;Linux+%2B+Open+Source+Enthusiast;Cloud+%26+DevOps+for+Robotics" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Sri%20Lanka-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓-Grad%202027-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼-Open%20to%20Robotics%20%26%20Automation%20Internships-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-Engineering Technology undergraduate specializing in Automation and Robotics with a **GPA of 3.62/4.00**. I have a strong interest in robotics, robotics software engineering, and embedded & control systems. I am experienced with Linux, ESP32, Arduino, Raspberry Pi, Python, C++, embedded systems, and control systems. I am a fast learner with a hands-on approach to prototyping, control systems, and robotic solutions.
+I'm an Automation & Robotics undergraduate at the **University of Kelaniya**, passionate about connecting hardware, software, and real-world engineering to build intelligent systems that actually work outside the lab.
 
-I am passionate about coding, experimentation, and developing practical technologies that bridge robotics and real-world engineering applications. Actively seeking internship opportunities to apply my skills in practical engineering environments and contribute to innovative robotics and automation projects.
-
----
-
-## 🎓 Education
-
-* **Bachelor of Engineering Technology – Automation and Robotics**
-  * **University:** University of Kelaniya, Sri Lanka
-  * **Expected Graduation:** Sep 2027
-  * **GPA:** 3.62/4.00
-  * **Relevant Coursework:** Industrial Robotics, Embedded Systems, PLC & Industrial Automation, Control Systems, Instrumentation, Sensors & Actuators, Mechatronics, Electrical Machines, and introductory Artificial Intelligence / Machine Learning concepts
+```
+🔭 Currently building:   ROS 2 packages, embedded control systems, and full-stack robotics tooling
+🌱 Currently exploring:  C++17/20, SLAM, and cloud-native deployment for robotics
+🎯 Goal:                 Build reliable robotic and intelligent systems that solve real-world problems
+```
 
 ---
 
-## 🛠 Technical Skills & Domain Knowledge
+### 🧭 Currently Exploring
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Programming** | `Python` `Java` `C++` `C` `MATLAB` |
-| **Robotics** | ROS2, Gazebo, ROS Workspace Management, Linux Development |
-| **AI & Computer Vision** | Machine Learning (Basic), Computer Vision (Basic), Autonomous Systems Concepts |
-| **Embedded Systems** | ESP32, Arduino Uno, Raspberry Pi, Sensors & Actuators, PWM/Servo Control, UART, GPIO, I2C |
-| **Software & Tools** | SolidWorks, Git, Docker, Ubuntu Linux, GitHub, AWS EC2 |
-| **Problem Solving** | Analytical Thinking, Research Skills, Technical Documentation, Rapid Learning, Team Collaboration |
-
----
-
-## 🎯 Interests
-
-Robotics, Robotics Software Engineering, Embedded Systems, Open-Source Development, Machine Learning, Artificial Intelligence, Industrial Automation, and Intelligent Control Systems.
+| | |
+|---|---|
+| 🤖 | Robotics & Robotics Software Engineering |
+| ⚙️ | Industrial Automation & Control Systems (PLC — Ladder Logic & Structured Text) |
+| 🔌 | Embedded Systems & IoT |
+| 🧠 | ROS 2, SLAM & Real-Time Control |
+| 🐧 | Linux & Open Source |
+| ☁️ | Cloud & DevOps for Robotics |
 
 ---
 
-## 🚀 Featured Projects
+### 🛠 Tech Stack
 
-### 1. PID Temperature Control System
-* **Overview:** Developed a closed-loop temperature control system using ESP32. Implemented a PID control algorithm, integrated sensor feedback and actuator control, and tuned control parameters experimentally for stable performance.
-* **Tech Stack:** ESP32, PID Algorithm, Sensor Integration, Control Systems.
+**Languages**
 
----
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
 
-### 2. Ball and Beam Balancing Robot
-* **Overview:** Designed an autonomous balancing system using ultrasonic sensor feedback and a servo motor. Implemented a PID controller for real-time stabilization and response tuning.
-* **Hardware/Software:** Microcontroller, Ultrasonic Sensor, Servo Motors, PID Control.
+**Robotics & Embedded**
 
----
+<p>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-000000?style=for-the-badge&logo=freertos&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLC-Ladder%20%2F%20ST-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SolidWorks-CAD%20%2F%20FEA-red?style=for-the-badge" />
+</p>
 
-### 3. Smart Three-Floor Elevator System
-* **Overview:** A multi-level control system designed for automated vertical transportation with call queueing and safety systems.
-* **Hardware:** Microcontroller, Limit Switches, Stepper/Servo Motors, Motor Drivers.
-* **Software:** C/C++, Embedded Logic State Machines.
+**Web & Backend**
 
----
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### 4. Smart Railway Crossing Security System
-* **Overview:** Built an automated hardware-software safety mechanism using sensor arrays and conditional logic to control gate actuation and improve reliability.
-* **Tech Stack:** Sensors, Actuators, Control Logic, Safety Systems.
+**Cloud, DevOps & Tools**
 
----
-
-### 5. Firebase IoT Environmental Monitoring System
-* **Overview:** Connected microcontroller-based sensors to Firebase Realtime Database for live telemetry monitoring and data logging.
-* **Architecture:** ESP32 / ESP8266 → Firebase Realtime Database → Web Dashboard.
-
----
-
-### 6. Docker Swarm Web Deployment
-* **Overview:** Built and deployed scalable containerized applications using Docker and Docker Swarm, and configured Nginx services on AWS EC2.
-* **Tech Stack:** Docker, Docker Swarm, Nginx, AWS EC2, Linux.
-
----
-
-### 7. Developer Portfolio & Technical Knowledge Base
-* **Overview:** Built a GitHub Pages portfolio and authored technical guides on Linux, Docker, Raspberry Pi, ROS2, and embedded development.
-* **Deliverables:** Portfolio Website, Technical Documentation, Open-Source Contributions.
-
----
-
-## 📜 Certifications & Professional Development
-
-* **Linux Essentials** — *Cisco Networking Academy* | Linux Command Line, File Systems, User & Process Management
-* **Docker Fundamentals** — *LearnKartS (Coursera)* | Containerization, Docker Images, Containers & Docker Compose
-* **Linux Foundation Certified System Administrator (LFCS) Preparation** — *Pearson (Coursera)* | Linux Administration
-* **MATLAB Programming and Simulation** — *MATLAB* | Control Systems Analysis, Modeling & Simulation
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
-## ⏳ Timeline
+### 🚀 Featured Projects
 
-```text
- 🎓 Started Engineering Degree
- ├─ ⚡ First Embedded Systems Project
- ├─ 🤖 Robotics Projects
- ├─ 🌐 IoT Development
- ├─ ☁️ Docker & AWS Learning
- ├─ 💼 Internship (Upcoming)
- └─ 🎯 Graduation (Future)
+- 🌡️ **PID Temperature/Pressure Control System** — closed-loop control design and tuning for process instrumentation
+- ⚖️ **Ball & Beam Balancing Robot** — real-time feedback control on an unstable system
+- 🛗 **Smart Elevator System** — 3-floor elevator controller built on ATmega328P
+- 🚦 **Smart Railway Crossing** — embedded safety-critical automation system
+- 🌐 **Firebase IoT Monitoring** — real-time sensor data pipeline with cloud dashboarding
+- 🐳 **Docker Swarm + AWS Deployment** — clustered container orchestration for full-stack apps
+- 🦾 **4-DOF Collaborative Desktop Robotic Arm** — hardware + control software integration
+- 🧪 **ChemLab Management System** — full CRUD Django app built from an ERD (13 modules, Bootstrap 5)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+> Replace `YOUR-GITHUB-USERNAME` above with your actual GitHub username for the stat cards to render.
+
+---
+
+### 🎯 Goal
+
+> *"Build reliable robotic and intelligent systems that solve real-world problems."*
+
+---
+
+<p align="center">
+  📍 Sri Lanka &nbsp;•&nbsp; 🎓 Expected Graduation: 2027 &nbsp;•&nbsp; 💼 Open to Robotics & Automation Internship Opportunities
+</p>
+
+<p align="center">
+  ⭐ Explore my repositories below to see what I'm building and learning.
+</p>
